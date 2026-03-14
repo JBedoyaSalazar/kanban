@@ -13,7 +13,7 @@ Este proyecto fue desarrollado como práctica para comprender cómo implementar 
 *(Puedes agregar aquí un link cuando despliegues el proyecto)*
 
 ```
-https://tu-demo-aqui.com
+[https://tu-demo-aqui.com](https://kanbansetup.netlify.app/)
 ```
 
 ---
