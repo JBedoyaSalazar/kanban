@@ -10,11 +10,7 @@ Este proyecto fue desarrollado como práctica para comprender cómo implementar 
 
 # 🚀 Demo del proyecto
 
-*(Puedes agregar aquí un link cuando despliegues el proyecto)*
-
-
 https://kanbansetup.netlify.app/
-
 
 ---
 
